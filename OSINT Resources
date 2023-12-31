@@ -1,0 +1,46 @@
+# OSINT Resources
+
+A curated list of Open Source Intelligence (OSINT) tools and resources, categorized by their primary functions.
+
+## Search Engines and Information Retrieval
+- [DuckDuckGo](https://duckduckgo.com) - Privacy-focused search engine
+- [Google](https://www.google.com) - Popular search engine with advanced search options
+- [TinEye](https://tineye.com) - Reverse image search engine
+- [Google Images](https://images.google.com) - Search for images using keywords
+- [Shodan](https://www.shodan.io) - Search engine for Internet-connected devices
+
+## Social Media and Content Management
+- [TweetDeck](https://tweetdeck.twitter.com) - Manage and organize Twitter streams
+- [Hootsuite](https://hootsuite.com) - Social media management platform
+
+## Domain and Network Tools
+- [Whois](https://www.whois.com) - Domain whois information
+- [DNSDumpster](https://dnsdumpster.com) - Domain research tool for DNS records
+- [Wireshark](https://www.wireshark.org) - Network protocol analyzer
+- [Nmap](https://nmap.org) - Network discovery and security auditing
+
+## Video and Media Analysis
+- [InVID](https://www.invid-project.eu) - Video verification tool
+- [YouTube Data Viewer](https://citizenevidence.amnestyusa.org) - Extract metadata from YouTube videos
+
+## Mapping and Geospatial Tools
+- [OpenStreetMap](https://www.openstreetmap.org) - Editable map of the world
+- [Google Maps](https://maps.google.com) - Web mapping service offering satellite imagery
+- [QGIS](https://qgis.org) - Open-source Geographic Information System
+- [Google Earth](https://www.google.com/earth) - Explore the world from your computer
+
+## Archival and News Services
+- [The Wayback Machine](https://archive.org/web) - Internet archive service
+- [Google News](https://news.google.com) - Aggregated news from various sources
+
+## Security and Privacy Tools
+- [ProtonVPN](https://protonvpn.com) - Secure VPN service
+- [Tor Browser](https://www.torproject.org) - Browser focused on privacy and security
+- [SpiderFoot](https://www.spiderfoot.net) - Automate the process of gathering intelligence about a given target
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) - Full-featured Web Reconnaissance framework
+- [AlienVault OTX](https://otx.alienvault.com) - Open threat intelligence community
+- [ThreatCrowd](https://www.threatcrowd.org) - Search engine for threats
+
+## Data Analysis and Visualization
+- [Maltego](https://www.maltego.com) - Interactive data mining tool
+- [Tableau Public
